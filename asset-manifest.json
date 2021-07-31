@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/co-author-react/static/css/main.ba502796.chunk.css",
+    "main.js": "/co-author-react/static/js/main.47af8838.chunk.js",
+    "main.js.map": "/co-author-react/static/js/main.47af8838.chunk.js.map",
+    "runtime-main.js": "/co-author-react/static/js/runtime-main.0466e411.js",
+    "runtime-main.js.map": "/co-author-react/static/js/runtime-main.0466e411.js.map",
+    "static/css/2.f716f7a9.chunk.css": "/co-author-react/static/css/2.f716f7a9.chunk.css",
+    "static/js/2.7f25dfdc.chunk.js": "/co-author-react/static/js/2.7f25dfdc.chunk.js",
+    "static/js/2.7f25dfdc.chunk.js.map": "/co-author-react/static/js/2.7f25dfdc.chunk.js.map",
+    "static/js/3.29ee5934.chunk.js": "/co-author-react/static/js/3.29ee5934.chunk.js",
+    "static/js/3.29ee5934.chunk.js.map": "/co-author-react/static/js/3.29ee5934.chunk.js.map",
+    "index.html": "/co-author-react/index.html",
+    "static/css/2.f716f7a9.chunk.css.map": "/co-author-react/static/css/2.f716f7a9.chunk.css.map",
+    "static/css/main.ba502796.chunk.css.map": "/co-author-react/static/css/main.ba502796.chunk.css.map",
+    "static/js/2.7f25dfdc.chunk.js.LICENSE.txt": "/co-author-react/static/js/2.7f25dfdc.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/co-author-react/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0466e411.js",
+    "static/css/2.f716f7a9.chunk.css",
+    "static/js/2.7f25dfdc.chunk.js",
+    "static/css/main.ba502796.chunk.css",
+    "static/js/main.47af8838.chunk.js"
+  ]
+}
